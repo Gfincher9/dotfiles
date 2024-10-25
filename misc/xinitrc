@@ -1,0 +1,4 @@
+sxhkd &
+polybar &
+feh --bg-scale 65c206s7.jpeg.1 & 
+bspwm 
